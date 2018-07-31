@@ -1,0 +1,65 @@
+[24-Mar-2018 10:47:54] NOTICE: fpm is running, pid 14
+[24-Mar-2018 10:47:54] NOTICE: ready to handle connections
+[24-Mar-2018 11:17:45] NOTICE: Terminating ...
+[24-Mar-2018 11:17:45] NOTICE: exiting, bye-bye!
+[24-Mar-2018 11:18:07] NOTICE: fpm is running, pid 29
+[24-Mar-2018 11:18:07] NOTICE: ready to handle connections
+[24-Mar-2018 11:30:28] NOTICE: Terminating ...
+[24-Mar-2018 11:30:28] NOTICE: exiting, bye-bye!
+[24-Mar-2018 11:30:59] NOTICE: fpm is running, pid 25
+[24-Mar-2018 11:30:59] NOTICE: ready to handle connections
+[24-Mar-2018 19:00:35] NOTICE: fpm is running, pid 8
+[24-Mar-2018 19:00:35] NOTICE: ready to handle connections
+[24-Mar-2018 21:35:42] NOTICE: fpm is running, pid 8
+[24-Mar-2018 21:35:42] NOTICE: ready to handle connections
+[25-Mar-2018 09:41:52] NOTICE: fpm is running, pid 8
+[25-Mar-2018 09:41:52] NOTICE: ready to handle connections
+[25-Mar-2018 15:12:36] NOTICE: fpm is running, pid 36
+[25-Mar-2018 15:12:36] NOTICE: ready to handle connections
+[25-Mar-2018 15:34:59] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[25-Mar-2018 15:46:04] NOTICE: Terminating ...
+[25-Mar-2018 15:46:04] NOTICE: exiting, bye-bye!
+[25-Mar-2018 15:46:11] NOTICE: fpm is running, pid 25
+[25-Mar-2018 15:46:11] NOTICE: ready to handle connections
+[25-Mar-2018 15:53:23] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[25-Mar-2018 18:28:58] NOTICE: fpm is running, pid 8
+[25-Mar-2018 18:28:58] NOTICE: ready to handle connections
+[25-Mar-2018 20:29:16] NOTICE: fpm is running, pid 8
+[25-Mar-2018 20:29:16] NOTICE: ready to handle connections
+[27-Mar-2018 09:52:28] NOTICE: fpm is running, pid 49
+[27-Mar-2018 09:52:28] NOTICE: ready to handle connections
+[27-Mar-2018 16:29:23] NOTICE: fpm is running, pid 8
+[27-Mar-2018 16:29:23] NOTICE: ready to handle connections
+[27-Mar-2018 17:07:48] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[27-Mar-2018 17:24:55] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[27-Mar-2018 17:31:27] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[27-Mar-2018 18:05:27] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[27-Mar-2018 20:19:30] NOTICE: fpm is running, pid 50
+[27-Mar-2018 20:19:30] NOTICE: ready to handle connections
+[27-Mar-2018 21:11:01] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[28-Mar-2018 09:45:04] NOTICE: fpm is running, pid 8
+[28-Mar-2018 09:45:04] NOTICE: ready to handle connections
+[28-Mar-2018 15:45:34] NOTICE: fpm is running, pid 8
+[28-Mar-2018 15:45:34] NOTICE: ready to handle connections
+[28-Mar-2018 16:24:36] NOTICE: fpm is running, pid 8
+[28-Mar-2018 16:24:36] NOTICE: ready to handle connections
+[29-Mar-2018 10:13:00] NOTICE: fpm is running, pid 8
+[29-Mar-2018 10:13:00] NOTICE: ready to handle connections
+[29-Mar-2018 11:26:46] NOTICE: fpm is running, pid 37
+[29-Mar-2018 11:26:46] NOTICE: ready to handle connections
+[29-Mar-2018 18:06:00] NOTICE: fpm is running, pid 8
+[29-Mar-2018 18:06:00] NOTICE: ready to handle connections
+[29-Mar-2018 21:17:11] NOTICE: fpm is running, pid 8
+[29-Mar-2018 21:17:11] NOTICE: ready to handle connections
+[31-Mar-2018 10:08:56] NOTICE: fpm is running, pid 8
+[31-Mar-2018 10:08:56] NOTICE: ready to handle connections
+[31-Mar-2018 17:59:22] NOTICE: fpm is running, pid 8
+[31-Mar-2018 17:59:22] NOTICE: ready to handle connections
+[01-Apr-2018 10:05:46] NOTICE: fpm is running, pid 8
+[01-Apr-2018 10:05:46] NOTICE: ready to handle connections
+[01-Apr-2018 20:07:28] NOTICE: fpm is running, pid 8
+[01-Apr-2018 20:07:28] NOTICE: ready to handle connections
+[02-Apr-2018 08:37:19] NOTICE: fpm is running, pid 8
+[02-Apr-2018 08:37:19] NOTICE: ready to handle connections
+[02-Apr-2018 10:11:44] NOTICE: fpm is running, pid 8
+[02-Apr-2018 10:11:44] NOTICE: ready to handle connections

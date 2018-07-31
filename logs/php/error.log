@@ -1,0 +1,245 @@
+[24-Mar-2018 11:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:14
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[24-Mar-2018 11:33:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:14
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[24-Mar-2018 11:33:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:14
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[24-Mar-2018 11:33:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:14
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[24-Mar-2018 11:34:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:14
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[24-Mar-2018 11:35:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:14
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[24-Mar-2018 11:37:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:14
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[24-Mar-2018 15:30:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:10
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/page.php(7): pageBanner()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 10
+[24-Mar-2018 15:31:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:10
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/page.php(7): pageBanner()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 10
+[24-Mar-2018 15:31:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:10
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/page.php(7): pageBanner()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 10
+[25-Mar-2018 19:03:41 UTC] PHP Warning:  file_get_contents(/app/public/wp-content/themes/fictional-university-theme/header.php): failed to open stream: Text file busy in /app/public/wp-includes/class-wp-theme.php on line 1018
+[25-Mar-2018 19:22:52 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-admin/includes/translation-install.php on line 65
+[25-Mar-2018 19:53:58 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-admin/includes/translation-install.php on line 65
+[27-Mar-2018 10:58:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_image_size(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 15 and at least 1 expected in /app/public/wp-includes/media.php:277
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/functions.php(15): add_image_size()
+#1 /app/public/wp-includes/class-wp-hook.php(286): university_features('')
+#2 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /app/public/wp-settings.php(434): do_action('after_setup_the...')
+#5 /app/public/wp-config.php(86): require_once('/app/public/wp-...')
+#6 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#7 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#8 /app/public/index.php(17): require('/app/public/wp-...')
+#9 {main}
+  thrown in /app/public/wp-includes/media.php on line 277
+[27-Mar-2018 10:58:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_image_size(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 15 and at least 1 expected in /app/public/wp-includes/media.php:277
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/functions.php(15): add_image_size()
+#1 /app/public/wp-includes/class-wp-hook.php(286): university_features('')
+#2 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /app/public/wp-settings.php(434): do_action('after_setup_the...')
+#5 /app/public/wp-config.php(86): require_once('/app/public/wp-...')
+#6 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#7 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#8 /app/public/index.php(17): require('/app/public/wp-...')
+#9 {main}
+  thrown in /app/public/wp-includes/media.php on line 277
+[27-Mar-2018 10:58:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_image_size(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 15 and at least 1 expected in /app/public/wp-includes/media.php:277
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/functions.php(15): add_image_size()
+#1 /app/public/wp-includes/class-wp-hook.php(286): university_features('')
+#2 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /app/public/wp-settings.php(434): do_action('after_setup_the...')
+#5 /app/public/wp-config.php(86): require_once('/app/public/wp-...')
+#6 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#7 /app/public/wp-admin/admin-ajax.php(22): require_once('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-includes/media.php on line 277
+[27-Mar-2018 10:58:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_image_size(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 15 and at least 1 expected in /app/public/wp-includes/media.php:277
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/functions.php(15): add_image_size()
+#1 /app/public/wp-includes/class-wp-hook.php(286): university_features('')
+#2 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /app/public/wp-settings.php(434): do_action('after_setup_the...')
+#5 /app/public/wp-config.php(86): require_once('/app/public/wp-...')
+#6 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#7 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#8 /app/public/index.php(17): require('/app/public/wp-...')
+#9 {main}
+  thrown in /app/public/wp-includes/media.php on line 277
+[27-Mar-2018 10:58:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_image_size(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 15 and at least 1 expected in /app/public/wp-includes/media.php:277
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/functions.php(15): add_image_size()
+#1 /app/public/wp-includes/class-wp-hook.php(286): university_features('')
+#2 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /app/public/wp-settings.php(434): do_action('after_setup_the...')
+#5 /app/public/wp-config.php(86): require_once('/app/public/wp-...')
+#6 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#7 /app/public/wp-admin/admin-ajax.php(22): require_once('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-includes/media.php on line 277
+[27-Mar-2018 11:00:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_image_size(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 15 and at least 1 expected in /app/public/wp-includes/media.php:277
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/functions.php(15): add_image_size()
+#1 /app/public/wp-includes/class-wp-hook.php(286): university_features('')
+#2 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /app/public/wp-settings.php(434): do_action('after_setup_the...')
+#5 /app/public/wp-config.php(86): require_once('/app/public/wp-...')
+#6 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#7 /app/public/wp-admin/admin-ajax.php(22): require_once('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-includes/media.php on line 277
+[27-Mar-2018 16:30:47 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-admin/includes/translation-install.php on line 65
+[27-Mar-2018 17:07:51 UTC] PHP Warning:  file_get_contents(/app/public/wp-content/themes/fictional-university-theme/single-professor.php): failed to open stream: Text file busy in /app/public/wp-includes/class-wp-theme.php on line 1018
+[27-Mar-2018 17:07:51 UTC] PHP Warning:  file_get_contents(/app/public/wp-content/themes/fictional-university-theme/single-professor.php): failed to open stream: Text file busy in /app/public/wp-includes/class-wp-theme.php on line 1018
+[27-Mar-2018 17:07:52 UTC] PHP Warning:  fopen(/app/public/wp-content/themes/fictional-university-theme/style.css): failed to open stream: Text file busy in /app/public/wp-includes/functions.php on line 4834
+[27-Mar-2018 17:07:52 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /app/public/wp-includes/functions.php on line 4837
+[27-Mar-2018 17:07:52 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /app/public/wp-includes/functions.php on line 4840
+[27-Mar-2018 17:24:58 UTC] PHP Warning:  file_get_contents(/app/public/wp-content/themes/fictional-university-theme/single-professor.php): failed to open stream: Text file busy in /app/public/wp-includes/class-wp-theme.php on line 1018
+[27-Mar-2018 18:05:27 UTC] PHP Warning:  file_get_contents(/app/public/wp-content/themes/fictional-university-theme/header.php): failed to open stream: Text file busy in /app/public/wp-includes/class-wp-theme.php on line 1018
+[27-Mar-2018 18:05:28 UTC] PHP Warning:  file_get_contents(/app/public/wp-content/themes/fictional-university-theme/page.php): failed to open stream: Text file busy in /app/public/wp-includes/class-wp-theme.php on line 1018
+[27-Mar-2018 18:05:31 UTC] PHP Warning:  fopen(/app/public/wp-content/themes/fictional-university-theme/style.css): failed to open stream: Text file busy in /app/public/wp-includes/functions.php on line 4834
+[27-Mar-2018 18:05:31 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /app/public/wp-includes/functions.php on line 4837
+[27-Mar-2018 18:05:31 UTC] PHP Warning:  fopen(/app/public/wp-content/themes/fictional-university-theme/style.css): failed to open stream: Text file busy in /app/public/wp-includes/functions.php on line 4834
+[27-Mar-2018 18:05:31 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /app/public/wp-includes/functions.php on line 4840
+[27-Mar-2018 18:05:31 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /app/public/wp-includes/functions.php on line 4837
+[27-Mar-2018 18:05:31 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /app/public/wp-includes/functions.php on line 4840
+[28-Mar-2018 12:25:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-content/themes/fictional-university-theme/template-parts/google-map.php:1) in /app/public/wp-admin/includes/misc.php on line 1114
+[28-Mar-2018 12:25:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-content/themes/fictional-university-theme/template-parts/google-map.php:1) in /app/public/wp-admin/includes/misc.php on line 1114
+[28-Mar-2018 12:26:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-content/themes/fictional-university-theme/template-parts/google-map.php:1) in /app/public/wp-admin/includes/misc.php on line 1114
+[28-Mar-2018 12:27:20 UTC] PHP Parse error:  syntax error, unexpected 'university_files' (T_STRING), expecting '(' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[28-Mar-2018 12:27:59 UTC] PHP Parse error:  syntax error, unexpected 'university_files' (T_STRING), expecting '(' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[28-Mar-2018 12:28:35 UTC] PHP Parse error:  syntax error, unexpected 'university_files' (T_STRING), expecting '(' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[28-Mar-2018 12:28:36 UTC] PHP Parse error:  syntax error, unexpected 'university_files' (T_STRING), expecting '(' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[28-Mar-2018 12:28:54 UTC] PHP Parse error:  syntax error, unexpected 'university_files' (T_STRING), expecting '(' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[28-Mar-2018 12:29:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 35
+[28-Mar-2018 12:30:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 35
+[28-Mar-2018 12:30:23 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[28-Mar-2018 12:31:23 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[28-Mar-2018 12:31:25 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[29-Mar-2018 21:20:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/mu-plugins/university-post-types.php on line 55
+[29-Mar-2018 21:29:09 UTC] PHP Warning:  require(/app/public/wp-content/themes/fictional-university-theme/inc/search-route): failed to open stream: No such file or directory in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[29-Mar-2018 21:29:09 UTC] PHP Warning:  require(/app/public/wp-content/themes/fictional-university-theme/inc/search-route): failed to open stream: No such file or directory in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[29-Mar-2018 21:29:09 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/fictional-university-theme/inc/search-route' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[29-Mar-2018 21:29:09 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/fictional-university-theme/inc/search-route' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[29-Mar-2018 21:29:09 UTC] PHP Warning:  require(/app/public/wp-content/themes/fictional-university-theme/inc/search-route): failed to open stream: No such file or directory in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[29-Mar-2018 21:29:09 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/fictional-university-theme/inc/search-route' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[29-Mar-2018 21:37:07 UTC] PHP Warning:  require(/app/public/wp-content/themes/fictional-university-theme/inc/search-route): failed to open stream: No such file or directory in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[29-Mar-2018 21:37:07 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/fictional-university-theme/inc/search-route' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[29-Mar-2018 21:37:14 UTC] PHP Warning:  require(/app/public/wp-content/themes/fictional-university-theme/inc/search-route): failed to open stream: No such file or directory in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[29-Mar-2018 21:37:14 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/fictional-university-theme/inc/search-route' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[29-Mar-2018 21:37:31 UTC] PHP Warning:  require(/app/public/wp-content/themes/fictional-university-theme/inc/search-route): failed to open stream: No such file or directory in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[29-Mar-2018 21:37:31 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/fictional-university-theme/inc/search-route' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[01-Apr-2018 10:35:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 45
+[01-Apr-2018 21:07:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/fictional-university-theme/page-my-notes.php on line 36
+[01-Apr-2018 21:08:09 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/fictional-university-theme/page-my-notes.php on line 36
+[01-Apr-2018 21:08:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/fictional-university-theme/page-my-notes.php on line 36
+[01-Apr-2018 21:10:07 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/fictional-university-theme/page-my-notes.php on line 36
+[01-Apr-2018 21:11:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/fictional-university-theme/page-my-notes.php on line 36
+[01-Apr-2018 21:50:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function makeNotePrivate(), 1 passed in /app/public/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /app/public/wp-content/themes/fictional-university-theme/functions.php:150
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(288): makeNotePrivate(Array)
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /app/public/wp-includes/post.php(3357): apply_filters('wp_insert_post_...', Array, Array)
+#3 /app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(530): wp_insert_post(Array, true)
+#4 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): WP_REST_Posts_Controller->create_item(Object(WP_REST_Request))
+#5 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/wp/v2/note')
+#7 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loade in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 150
+[01-Apr-2018 21:51:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function makeNotePrivate(), 1 passed in /app/public/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /app/public/wp-content/themes/fictional-university-theme/functions.php:150
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(288): makeNotePrivate(Array)
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /app/public/wp-includes/post.php(3357): apply_filters('wp_insert_post_...', Array, Array)
+#3 /app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(530): wp_insert_post(Array, true)
+#4 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): WP_REST_Posts_Controller->create_item(Object(WP_REST_Request))
+#5 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/wp/v2/note')
+#7 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loade in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 150
+[01-Apr-2018 21:51:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function makeNotePrivate(), 1 passed in /app/public/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /app/public/wp-content/themes/fictional-university-theme/functions.php:150
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(288): makeNotePrivate(Array)
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /app/public/wp-includes/post.php(3357): apply_filters('wp_insert_post_...', Array, Array)
+#3 /app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(530): wp_insert_post(Array, true)
+#4 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): WP_REST_Posts_Controller->create_item(Object(WP_REST_Request))
+#5 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/wp/v2/note')
+#7 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loade in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 150
+[01-Apr-2018 21:52:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function makeNotePrivate(), 1 passed in /app/public/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /app/public/wp-content/themes/fictional-university-theme/functions.php:150
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(288): makeNotePrivate(Array)
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /app/public/wp-includes/post.php(3357): apply_filters('wp_insert_post_...', Array, Array)
+#3 /app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(530): wp_insert_post(Array, true)
+#4 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): WP_REST_Posts_Controller->create_item(Object(WP_REST_Request))
+#5 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/wp/v2/note')
+#7 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loade in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 150
